@@ -1,16 +1,3 @@
-# tourist_app
+# TourPool
 
-Tourist who will avail the car rental service will use this app
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A car pool/rental app targeted for Tourists using Flutter and Firebase.Both tourist and driver side apps which will provide the login/signup and simulate hiring a car using Firebase,and maps from GCP APIs,Also determining nearest drivers and automating the connection for the same with price determination and payment simulation.The business motivation behind this app is the insight about how tourists are often charged absurd prices for the car rentals in difficult terrains where no ride hailing apps offer any alternatives.So,This app means to connect the locals to offer pooling services and make money simultaneously making travel cheap for some tourists.
