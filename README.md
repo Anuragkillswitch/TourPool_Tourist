@@ -110,7 +110,6 @@ And now it’s working!
 Next we will use geocoding and reverse geocoding to turn the latitude longitude to human readable addresses and reverse
 
 For this API to work we need to enable billing for GCP
-So we’ll take a pass on this till Dad comes back and I can ask for his credit card
 
 
 
